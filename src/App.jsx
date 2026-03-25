@@ -79,7 +79,7 @@ const minYear = 1954;
 const lastHistoricalYear = 2025;
 const currentYear = 2026;
 const maxYear = 2076;
-const currentInflation = 8.4;
+const currentInflation = 1.4;
 const inflationTarget = 2.0;
 const indicatorScaleMax = 4;
 
